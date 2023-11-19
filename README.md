@@ -2,8 +2,6 @@
 
 💻 3rd-year Computer Engineering student at the University of Alberta
 
-🔭 I’m currently working at Vertical City as a Software Deployment Intern
-
 💡 I'm interested in AI, UI/UX Design, Data Science, IoT, Web & Game Development, Software Development, and the list goes on!
 
 📖 I embrace a lifelong learning mindset, always striving to continuously improve my skills and attributes by committing the time to practice on websites such as LeetCode and HackerRank
