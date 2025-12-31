@@ -5,5 +5,6 @@
 - Proficient in: C, C++, Python, Java, and basic assembly programming.
 - Previously interned at Vertical City and Turbine-X Energy Inc.
 
-Currently working on TempoCore (Hardware Metronome)
 #### Let's connect on my LinkedIn! 👉 https://www.linkedin.com/in/raphael-ramos-1/
+
+- Currently working on TempoCore repo (Hardware Metronome) and my website :)
