@@ -1,4 +1,4 @@
-# Hallo :D I'm Raphael Ramos!
+# Herro :D I'm Raphael Ramos!
 
 - 5th year Computer Engineering student at the University of Alberta.
 - Interested in embedded systems, firmware, and low-level software!
