@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=140&section=header&text=Raphael%20Ramos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Computer%20Engineering%20%40%20UAlberta&descAlignY=46&descSize=18)
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=white)](https://erenpaper.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-ramos-1/)
-![Profile Views](https://komarev.com/ghpvc/?username=ErenPaper&label=Profile%20views&color=grey&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b894&width=500&lines=Hey%2C+I'm+Raphael+%F0%9F%91%8B;Computer+Engineering+%40+UAlberta;Embedded+systems+%26+firmware;Currently+building+dinnrapp+%F0%9F%8D%BD)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b894)](https://erenpaper.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b894)](https://www.linkedin.com/in/raphael-ramos-1/)
+![Profile Views](https://komarev.com/ghpvc/?username=ErenPaper&label=Profile%20views&color=00b894&style=for-the-badge)
 
 </div>
 
@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenPaper&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenPaper&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenPaper&show_icons=true&theme=merko&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenPaper&layout=compact&theme=merko&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErenPaper&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=ErenPaper&theme=merko&hide_border=true" width="60%"/>
 </div>
 
 ---
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=80&section=footer" width="100%"/>
+<sub>Built with curiosity · erenpaper.github.io</sub>
 </div>
