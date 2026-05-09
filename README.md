@@ -30,8 +30,8 @@
 
 ## 💼 Experience
 
-**Vertical City** · Software Intern  
-**Turbine-X Energy Inc.** · Software Intern
+**Vertical City** · Software Deployment Intern  
+**Turbine-X Energy Inc.** · Product Development Intern
 
 ---
 
