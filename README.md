@@ -10,7 +10,7 @@
 
 ---
 
-5th-year Computer Engineering student at the **University of Alberta**, focused on embedded systems, firmware, and low-level software. I like working close to the metal — if it involves hardware talking to software, I'm interested.
+5th-year Computer Engineering student at the **University of Alberta**, focused on embedded systems, firmware, and low-level software. If it involves hardware talking to software, I'm interested.
 
 > 🔭 Currently building **[dinnrapp](https://github.com/dinnrapp)** — a mobile app for planning and sharing dinners with friends
 
