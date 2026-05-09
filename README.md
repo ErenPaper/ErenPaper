@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=140&section=header&text=Raphael%20Ramos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Computer%20Engineering%20%7C%20Embedded%20Systems%20%26%20Firmware&descAlignY=46&descSize=18" width="100%"/>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=140&section=header&text=Raphael%20Ramos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Computer%20Engineering%20%7C%20Embedded%20Systems%20%26%20Firmware&descAlignY=46&descSize=18)
 
 <div align="center">
 
