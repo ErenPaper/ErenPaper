@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b894&width=500&center=true&lines=Hey%2C+I'm+Raphael+%F0%9F%91%8B;Computer+Engineering+%40+UAlberta;Embedded+systems+%26+firmware;Currently+building+dinnrapp+%F0%9F%8D%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b894&width=500&center=true&vCenter=true&lines=Hey%2C+I'm+Raphael+%F0%9F%91%8B;Computer+Engineering+%40+UAlberta;Embedded+systems+%26+firmware;Currently+building+dinnrapp+%F0%9F%8D%BD)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b894)](https://erenpaper.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b894)](https://www.linkedin.com/in/raphael-ramos-1/)
